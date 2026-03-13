@@ -3,7 +3,7 @@ Exemplo de exposição via Azure API Management de uma API REST convencional (ba
 
 Referência: https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities
 
-Live em que este conteúdo foi apresentado: https://learn.microsoft.com/en-us/azure/api-management/genai-gateway-capabilities
+Live em que este conteúdo foi apresentado: https://www.youtube.com/watch?v=KprGEuSUlpg
 
 Arquitetura deste tipo de solução:
 
