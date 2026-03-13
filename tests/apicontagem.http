@@ -1,0 +1,2 @@
+GET https://groffeapim01.azure-api.net/contagem/contador
+Ocp-Apim-Subscription-Key: SUBSCRIPTION_KEY_APIM

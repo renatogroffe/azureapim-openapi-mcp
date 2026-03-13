@@ -1,0 +1,16 @@
+{
+	"servers": {
+		"mcp-contagem": {
+			"url": "https://groffeapim01.azure-api.net/mcpcontagem00/mcp",
+			"type": "http",
+			"headers": {
+				"Ocp-Apim-Subscription-Key": "SUBSCRIPTION_KEY_APIM"
+			}
+		},
+		"mcp-excalidraw": {
+			"url": "https://mcp.excalidraw.com",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
